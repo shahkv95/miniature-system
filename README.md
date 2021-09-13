@@ -7,9 +7,9 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
-   <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
+   <img src="https://img.shields.io/github/license/shahkv95/productive-box"/>
+   <img src="https://img.shields.io/github/stars/shahkv95/productive-box"/>
+   <img src="https://img.shields.io/github/forks/shahkv95/productive-box"/>
 </p>
 <p align="center">
    Are you an early 🐤 or a night 🦉?
@@ -38,9 +38,9 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 
 1. Fork this repo
 1. Open the "Actions" tab of your fork and click the "enable" button
-1. Edit the [environment variable](https://github.com/maxam2017/productive-box/blob/master/.github/workflows/schedule.yml#L17-L18) in `.github/workflows/schedule.yml`:
+1. Edit the [environment variable](https://github.com/shahkv95/productive-box/blob/master/.github/workflows/schedule.yml#L17-L18) in `.github/workflows/schedule.yml`:
 
-   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/maxam2017/`**`9842e074b8ee46aef76fd0d493bae0ed`**.
+   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/shahkv95/`**`9842e074b8ee46aef76fd0d493bae0ed`**.
    - **TIMEZONE:** The timezone of your location, eg. `Asia/Taipei` for Taiwan, `America/New_York` for America in New York, etc.
 
 1. Go to the repo **Settings > Secrets**
